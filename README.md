@@ -21,11 +21,20 @@
 
 ## 🌍 About Me
 
-I'm a Software Developer passionate about building modern web applications, scalable backend systems, and technology-driven solutions.
+I'm a **Software Developer** focused on building responsive web applications, scalable backend systems, and innovative digital solutions. I work with modern web technologies to transform ideas into functional, user-centered applications, with a growing focus on **Full-Stack Development, Digital Health, and Health Technology**.
 
-I enjoy transforming ideas into functional digital products through clean code, problem-solving, and continuous improvement.
+I specialize in web application development using:
 
-My interests include Full-Stack Development, Digital Health, Health Informatics, Artificial Intelligence, and software engineering.
+- **Frontend:** HTML5, CSS3, JavaScript, React.js, Bootstrap
+- **Backend:** Python, Django
+- **Databases:** MySQL, SQLite, Database Design and Management
+- **Development Tools:** Git, GitHub, Visual Studio Code
+- **Software Engineering:** REST API Integration, CRUD Operations, Responsive Web Design, Debugging and Troubleshooting
+
+I have a strong interest in **software architecture, database management, and problem-solving**. I enjoy developing practical applications, creating intuitive user experiences, and exploring how emerging technologies, particularly **Artificial Intelligence and Digital Health**, can transform service delivery and solve real-world challenges.
+
+My approach to development emphasizes **clean code, maintainability, continuous improvement, collaboration, and building technology that makes a meaningful impact.**
+
 
 ---
 
